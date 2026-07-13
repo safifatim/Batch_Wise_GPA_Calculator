@@ -2,7 +2,7 @@
 
 A lightweight web app that lets faculty/admin staff select a **semester and year**, browse the courses offered that term, pull up the enrolled students for a course, and instantly calculate each student's **grade and GPA** from their aggregated marks.
 
-Built with a simple **Express + Neon (Postgres) + Alpine.js** stack — no heavy frontend framework, no build step.
+Built with a simple **Express + Neon (Postgres) + Alpine.js** stack no heavy frontend framework, no build step.
 
 ---
 
